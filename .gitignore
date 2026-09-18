@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated at runtime by the graphical interface
+_gui_settings.json
+
+# Output of the self-test
+_selftest/
+
+# Working directories: keep the folders (with their notices), ignore their contents
+input/*
+!input/说明-把照片放这里.txt
+
+output/*
+!output/说明-结果在这里.txt
